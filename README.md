@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales Analysis
 
 This analysis gives an understanding of various products across different countries. It entails the cost of goods sold, sales, profit based on products, KPI's, most sold product.
 
